@@ -1,0 +1,181 @@
+{
+  "basics": {
+    "name": "MD ABDUL MOTIN",
+    "location": "Mirpur-1, Dhaka",
+    "phone": "+8801846-339307",
+    "email": "abmsumonhosen@gmail.com",
+    "image": "photo.png",
+    "whatsapp": "https://wa.me/8801867734016"
+  },
+  "summary": "Software Engineer with 4+ years of experience designing and developing scalable web applications for enterprise environments. Skilled in delivering ERP, fleet management, and legal operations platforms, with strong expertise in backend engineering, API architecture, performance optimization, and cloud-based deployment.",
+  "socials": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/sumonhosen/"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/yeapes/"
+    },
+    {
+      "label": "Email",
+      "href": "mailto:abmsumonhosen@gmail.com"
+    },
+    {
+      "label": "View Resume/CV"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "Building software in Bangladesh",
+      "value": "4+ Years"
+    },
+    {
+      "label": "Business systems delivery",
+      "value": "Enterprise"
+    },
+    {
+      "label": "Scalable service architecture",
+      "value": "Backend"
+    },
+    {
+      "label": "Deployment and infrastructure",
+      "value": "Cloud"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Encodemy LTD.",
+      "role": "Software Engineer",
+      "period": "Jul 2025 – Present",
+      "highlights": [
+        "Working on the BPATC Government ERP system with secure RBAC and enterprise workflow management.",
+        "Developing the BRAC Fleet Management System with vehicle tracking and logistics-focused modules.",
+        "Building the BRAC Case Hub legal case management platform for structured legal operations.",
+        "Improving scalability through modular architecture and performance optimization."
+      ]
+    },
+    {
+      "company": "IGL WEB LTD.",
+      "role": "Backend Developer",
+      "period": "Nov 2021 – Jun 2025",
+      "highlights": [
+        "Built backend architecture for OTT platforms with scalable APIs and service-oriented integrations.",
+        "Integrated AWS CloudFront CDN for optimized media and video delivery pipelines.",
+        "Improved application performance with ElasticSearch, Algolia, and Redis."
+      ]
+    },
+    {
+      "company": "YOUTH FIRE IT",
+      "role": "Web Application Developer",
+      "period": "Nov 2020 – Oct 2021",
+      "highlights": [
+        "Developed Laravel-based CRM systems and business automation tools for internal operations."
+      ]
+    }
+  ],
+  "skills": {
+    "Backend": ["PHP", "Laravel", "Node.js"],
+    "Frontend": ["JavaScript", "Vue.js", "React.js", "Next.js", "jQuery", "Bootstrap"],
+    "Database": ["MySQL", "PostgreSQL", "Redis"],
+    "Search": ["ElasticSearch", "Algolia"],
+    "Cloud & DevOps": ["Docker", "AWS", "DigitalOcean", "Linux"],
+    "Tools": ["Git", "REST APIs", "Agile/Scrum", "Postman"]
+  },
+  "projects": [
+    {
+      "name": "Fleet Management",
+      "category": "BRAC Platform",
+      "description": "Enterprise fleet solution focused on vehicle operations, logistics workflows, and operational visibility.",
+      "stack": ["Laravel", "Fleet Ops", "Tracking", "Logistics"],
+      "link": "https://ifleet.brac.net/index.php/user/login"
+    },
+    {
+      "name": "Legal App (BRAC Case Hub)",
+      "category": "Legal Operations",
+      "description": "Case management platform for organizing legal matters, workflow handling, and structured operational collaboration.",
+      "stack": ["Laravel", "Case Management", "RBAC", "Workflow"],
+      "link": "https://casehub.brac.net/"
+    },
+    {
+      "name": "BPATC Government ERP",
+      "category": "Government ERP",
+      "description": "Secure ERP platform designed for role-based access, internal workflows, and scalable enterprise modules.",
+      "stack": ["ERP", "Laravel", "RBAC", "Enterprise"],
+      "link": "https://www.erp.bpatc.gov.bd/"
+    }
+  ],
+  "freelanceProjects": [
+    {
+      "name": "Red Mermaid",
+      "category": "Freelance Project",
+      "description": "Seafood business website built with CMS support for managing content, product presentation, and business updates.",
+      "stack": ["CMS", "Business Website", "Client Work"],
+      "link": "https://redmermaid.com.au/"
+    },
+    {
+      "name": "VisiWave",
+      "category": "Freelance Project",
+      "description": "Business platform presenting VisiWave's service areas across Security Services, Software Development, BPO, and Agri-Care with a clear company positioning around innovation and growth.",
+      "stack": ["Corporate Website", "Service Platform", "Client Work"],
+      "link": "https://www.visiwave.xyz/"
+    },
+    {
+      "name": "NAPS Guards",
+      "category": "Freelance Project",
+      "description": "Security services company website for North American Protection Services, highlighting its mission, long-standing experience since 1977, and tailored protection solutions across the Greater Toronto Area.",
+      "stack": ["Security Website", "Corporate Website", "Client Work"],
+      "link": "https://www.napsguards.com/"
+    },
+    {
+      "name": "Innoel BD",
+      "category": "Freelance Project",
+      "description": "Website for a Bangladeshi electronics products company, focused on presenting the brand and its locally produced electronic items.",
+      "stack": ["Electronics Brand", "Business Website", "Client Work"],
+      "link": "https://innoelbd.com/"
+    },
+    {
+      "name": "Designer Country",
+      "category": "Freelance Project",
+      "description": "Designer service provider website built to present creative services, showcase offerings, and support business visibility online.",
+      "stack": ["Service Website", "Business Website", "Client Work"],
+      "link": "https://designercountry.com/"
+    },
+    {
+      "name": "Holiday Travel Maldives",
+      "category": "Freelance Project",
+      "description": "Travel booking website for promoting packages, trip planning, and customer booking workflows for a Maldives travel business.",
+      "stack": ["Travel Website", "Booking Platform", "Client Work"],
+      "link": "https://holidaytravelmaldives.com/"
+    },
+    {
+      "name": "Manage Front Desk Travel Agency Company",
+      "category": "Freelance Project",
+      "description": "Travel agency front-desk management platform for handling internal operations and business workflow management.",
+      "stack": ["ERP", "Operations Platform", "Client Work"],
+      "link": "https://erp.holidaytravelmaldives.com/login"
+    },
+    {
+      "name": "Clipping Path Cutout",
+      "category": "Freelance Project",
+      "description": "Design service provider website positioned as a sub-brand of Designer Country, focused on creative production and image editing services.",
+      "stack": ["Design Services", "Sub Brand Website", "Client Work"],
+      "link": "https://www.clippingpathcutout.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science & Engineering",
+      "institute": "Bangladesh University",
+      "period": "2020 – 2023",
+      "result": "CGPA 3.75 / 4.0"
+    },
+    {
+      "degree": "Diploma in Computer Technology",
+      "institute": "Lakshimpur Polytechnic Institute",
+      "period": "2015 – 2019",
+      "result": "GPA 3.39 / 4.0"
+    }
+  ]
+  
+}
