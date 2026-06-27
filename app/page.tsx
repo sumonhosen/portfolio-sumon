@@ -221,7 +221,6 @@ export default function Home() {
                   <h3>{item.degree}</h3>
                   <p>{item.institute}</p>
                   <span>{item.period}</span>
-                  <strong>{item.result}</strong>
                 </article>
               ))}
             </div>

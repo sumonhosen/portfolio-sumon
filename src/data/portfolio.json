@@ -5,7 +5,7 @@
     "phone": "+8801846-339307",
     "email": "abmsumonhosen@gmail.com",
     "image": "photo.png",
-    "whatsapp": "https://wa.me/8801867734016"
+    "whatsapp": "https://wa.me/8801846339307"
   },
   "summary": "Software Engineer with 4+ years of experience designing and developing scalable web applications for enterprise environments. Skilled in delivering ERP, fleet management, and legal operations platforms, with strong expertise in backend engineering, API architecture, performance optimization, and cloud-based deployment.",
   "socials": [
@@ -15,7 +15,7 @@
     },
     {
       "label": "LinkedIn",
-      "href": "https://www.linkedin.com/in/yeapes/"
+      "href": "https://www.linkedin.com/in/abdul-motin-794864214"
     },
     {
       "label": "Email",
@@ -47,30 +47,21 @@
     {
       "company": "Encodemy LTD.",
       "role": "Software Engineer",
-      "period": "Jul 2025 – Present",
+      "period": "Jul 2024 – Present",
       "highlights": [
-        "Working on the BPATC Government ERP system with secure RBAC and enterprise workflow management.",
-        "Developing the BRAC Fleet Management System with vehicle tracking and logistics-focused modules.",
-        "Building the BRAC Case Hub legal case management platform for structured legal operations.",
+        "Working on the Government ERP system with secure and enterprise workflow management.",
+        "Building AI Sass management platform for structured legal operations.",
         "Improving scalability through modular architecture and performance optimization."
       ]
     },
     {
       "company": "IGL WEB LTD.",
       "role": "Backend Developer",
-      "period": "Nov 2021 – Jun 2025",
+      "period": "Nov 2021 – Jun 2024",
       "highlights": [
-        "Built backend architecture for OTT platforms with scalable APIs and service-oriented integrations.",
+        "Built backend architecture for BusBooking APP platforms with scalable Rest APIs and service-oriented integrations.",
         "Integrated AWS CloudFront CDN for optimized media and video delivery pipelines.",
         "Improved application performance with ElasticSearch, Algolia, and Redis."
-      ]
-    },
-    {
-      "company": "YOUTH FIRE IT",
-      "role": "Web Application Developer",
-      "period": "Nov 2020 – Oct 2021",
-      "highlights": [
-        "Developed Laravel-based CRM systems and business automation tools for internal operations."
       ]
     }
   ],
@@ -83,26 +74,28 @@
     "Tools": ["Git", "REST APIs", "Agile/Scrum", "Postman"]
   },
   "projects": [
+
+    {
+      "name": "Property Booking",
+      "category": "Freelance Project",
+      "description": "Property booking website for promoting packages, property planning, and customer booking workflows for a Maldives travel business.",
+      "stack": ["Travel Website", "Booking Platform", "Client Work"],
+      "link": "https://iproperty-increase.com"
+    },
+
     {
       "name": "Fleet Management",
-      "category": "BRAC Platform",
+      "category": "AI Sass Platform",
       "description": "Enterprise fleet solution focused on vehicle operations, logistics workflows, and operational visibility.",
       "stack": ["Laravel", "Fleet Ops", "Tracking", "Logistics"],
-      "link": "https://ifleet.brac.net/index.php/user/login"
+      "link": "https://www.yafiai.com/login"
     },
     {
-      "name": "Legal App (BRAC Case Hub)",
+      "name": "AI Media Generate Sass",
       "category": "Legal Operations",
-      "description": "Case management platform for organizing legal matters, workflow handling, and structured operational collaboration.",
-      "stack": ["Laravel", "Case Management", "RBAC", "Workflow"],
-      "link": "https://casehub.brac.net/"
-    },
-    {
-      "name": "BPATC Government ERP",
-      "category": "Government ERP",
-      "description": "Secure ERP platform designed for role-based access, internal workflows, and scalable enterprise modules.",
-      "stack": ["ERP", "Laravel", "RBAC", "Enterprise"],
-      "link": "https://www.erp.bpatc.gov.bd/"
+      "description": "Media management platform for organizing legal matters, workflow handling, and structured operational collaboration.",
+      "stack": ["Laravel", "Media Management", "RBAC", "Workflow"],
+      "link": "https://app.3dtrixs.com/login"
     }
   ],
   "freelanceProjects": [
@@ -147,34 +140,20 @@
       "description": "Travel booking website for promoting packages, trip planning, and customer booking workflows for a Maldives travel business.",
       "stack": ["Travel Website", "Booking Platform", "Client Work"],
       "link": "https://holidaytravelmaldives.com/"
-    },
-    {
-      "name": "Manage Front Desk Travel Agency Company",
-      "category": "Freelance Project",
-      "description": "Travel agency front-desk management platform for handling internal operations and business workflow management.",
-      "stack": ["ERP", "Operations Platform", "Client Work"],
-      "link": "https://erp.holidaytravelmaldives.com/login"
-    },
-    {
-      "name": "Clipping Path Cutout",
-      "category": "Freelance Project",
-      "description": "Design service provider website positioned as a sub-brand of Designer Country, focused on creative production and image editing services.",
-      "stack": ["Design Services", "Sub Brand Website", "Client Work"],
-      "link": "https://www.clippingpathcutout.com"
     }
+
+
   ],
   "education": [
     {
       "degree": "B.Sc. in Computer Science & Engineering",
-      "institute": "Bangladesh University",
-      "period": "2020 – 2023",
-      "result": "CGPA 3.75 / 4.0"
+      "institute": "Sonargaon University",
+      "period": "2023 to currently ongoing."
     },
     {
       "degree": "Diploma in Computer Technology",
       "institute": "Lakshimpur Polytechnic Institute",
-      "period": "2015 – 2019",
-      "result": "GPA 3.39 / 4.0"
+      "period": "2015 – 2019"
     }
   ]
   
