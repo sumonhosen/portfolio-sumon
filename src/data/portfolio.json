@@ -84,14 +84,14 @@
     },
 
     {
-      "name": "Fleet Management",
+      "name": "Sass Management",
       "category": "AI Sass Platform",
       "description": "Enterprise fleet solution focused on vehicle operations, logistics workflows, and operational visibility.",
       "stack": ["Laravel", "Fleet Ops", "Tracking", "Logistics"],
       "link": "https://www.yafiai.com/login"
     },
     {
-      "name": "AI Media Generate Sass",
+      "name": "Media AI Management Sass",
       "category": "Legal Operations",
       "description": "Media management platform for organizing legal matters, workflow handling, and structured operational collaboration.",
       "stack": ["Laravel", "Media Management", "RBAC", "Workflow"],
